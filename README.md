@@ -40,4 +40,4 @@ Integrated **Agora RTC** to move professional networking from text to voice. Man
 ---
 
 ### **Contact & Access**
-For technical review or partnership inquiries regarding the EmeraldIcon ecosystem, reach out via [LinkedIn](YOUR_LINKEDIN_URL).
+For technical review or partnership inquiries regarding the EmeraldIcon ecosystem, reach out via [LinkedIn](https://www.linkedin.com/in/michaelerezi/).
